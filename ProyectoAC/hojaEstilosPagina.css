@@ -1,0 +1,103 @@
+body {
+background-color:#F8DAB3;
+background-image:url("C:\Users\admin\Pictures\fondo.jpg");
+background-size:cover;
+}
+
+img{
+margin
+}
+
+p {
+  color:FFFFFF;
+font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+div{
+background-color:#FF9745;
+text-aling: center;
+margin-left:auto;
+margin-right:auto;
+whidth:1400px;
+}
+
+ul{
+color:#E63949;
+font-style: italic;
+font-weight: bold;
+font-family: "Trebuchet MS";
+font-size: 14px;
+}
+
+h1 {
+font-family:"Book Antiqua";
+  color: #B84A08;
+  font-size: 85px;
+}
+
+h2{
+font-famyly:"American Typewriter"
+color: #09EB36;
+  font-size: 24px;
+}
+
+h4{
+font-famyly:"Courier"
+color: #EAE120;
+  font-size: 24px;
+}
+
+h5{
+font-famyly:"Courier"
+color: #FC7A08;
+  font-size: 24px;
+}
+
+/* Estilos de la barra de navegación */
+.navbar {
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.navbar a {
+  color: #333;
+  text-decoration: none;
+  padding: 5px;
+}
+
+/* Estilos de los enlaces */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Estilos de la sección principal */
+.main-section {
+  margin: 20px;
+}
+
+/* Estilos del pie de página */
+.footer {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+}
